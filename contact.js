@@ -48,11 +48,11 @@ var username = document.getElementById("email").value;
 var password = document.getElementById("pass").value;
 if ( username  && password != null){
 alert ("Your query is submitted!!!");
-window.location = "../HTML/index.html"; 
+window.location = "./HTML/index.html"; 
 }
 }
 
 function home(){
     console.log("dbadhb");
-    window.location = "../HTML/index.html"; 
+    window.location = "./HTML/index.html"; 
 }
