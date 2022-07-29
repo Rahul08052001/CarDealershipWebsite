@@ -55,6 +55,6 @@ function validateHome(){
     var password = document.getElementById("pass").value;
     if ( (username  && password != null && validate() == true) ){
 // alert ("Login successfully");
-    window.location = "./HTML/index.html"; 
+    window.location = "index.html"; 
 }
 }
