@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: 'Edu QLD Beginner';
-    src: url("../font/newFont.ttf");
+    src: url("newFont.ttf");
 }
 body{
     background-color: #ecf0f3;
