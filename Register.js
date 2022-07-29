@@ -98,7 +98,7 @@ function validateLogin(){
     var password = document.getElementById("pass1").value;
     var c_password = document.getElementById("cpass").value;
     if ( username  && email && password && c_password != null ){
-    window.alert ("Register successful!!!");
-    window.location = "../HTML/Login.html"; // Redirecting to other page.
+    window.alert ("Registration successful!!!");
+    window.location = "./HTML/Login.html"; // Redirecting to other page.
     }
     }
